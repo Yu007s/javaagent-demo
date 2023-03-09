@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 妈惹法克
+Agent-Class: com.jys.javaagentdemo.MyCustomAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: com.jys.javaagentdemo.MyCustomAgent
